@@ -2,7 +2,7 @@
 Build a recommendation system that helps users to find perfumes that correspond to their preferences.
 
 **Details of the Data**
-
+--------------------
 Initially, I searched a lot for a dataset but could not find any that matched the features I wanted. So, the best option I found was to web-scrape a fragrance website and get the data. The website I chose for this is https://en.parfumdreams.de/Fragrances.
 
 The data I scraped from this website include:
