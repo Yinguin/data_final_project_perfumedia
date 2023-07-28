@@ -57,7 +57,7 @@ The repository contains:
 -	A Jupyter notebook with the analysis and the models (data_final_project_perfumedia.ipynb).
 -	An SQL-Query-File exploring the data (data_final_project_perfumedia.sql)
 -	A Tableau Public workbook to visualize the data (data_final_project_perfumedia.twbx)
-- A PowerPoint presentation of the project
+- A PowerPoint presentation of the project (data_final_project_perfumedia.pptx)
 
 I have created documentation of my workflow here: https://trello.com/b/nyboyGj5/fragrance
 
