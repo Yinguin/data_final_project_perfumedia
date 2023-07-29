@@ -1,9 +1,6 @@
 import pandas as pd
-import numpy as np
 import os
 import streamlit as st
-from PIL import Image
-from IPython.display import display, HTML, Image, Markdown
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import warnings
