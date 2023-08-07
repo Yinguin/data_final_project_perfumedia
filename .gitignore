@@ -1,0 +1,8 @@
+# Ignoring checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/*
+
+# Ignore log files
+*.log
+
+# Ignoring specific folders and data files
